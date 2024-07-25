@@ -2,12 +2,12 @@
 
 *What app does:* 
 
-This app shows us a list of cards showing most trending article/news, and on the click of each card we get routed to individual article and it's relevant details.
+This responsive app shows us a list of cards showing most trending article/news, and on the click of each card we get routed to individual article and it's relevant details.
 
 
 *React Concepts Used:*
 
-This app involves fetch API for fetching live data from NewYork times, context API, Routing, Context Providers, custom and built in Hooks, React Testing library with Jest, prettified code using pretty es lint library, inline css and seperate css files. 
+This app involves fetch API for fetching live data from NewYork times, context API, Routing, Context Providers, custom and built in Hooks, React Testing library with Jest, prettified code using pretty es lint library, inline css and seperate css files, responsive friendly.
 
 
 **Steps For Installation**
