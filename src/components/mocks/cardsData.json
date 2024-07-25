@@ -1,0 +1,1116 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://interactive/8323dec7-66a7-5322-bdba-3960dedbaba4",
+      "url": "https://www.nytimes.com/interactive/2024/books/reader-best-books-21st-century.html",
+      "id": 100000009577685,
+      "asset_id": 100000009577685,
+      "source": "New York Times",
+      "published_date": "2024-07-18",
+      "updated": "2024-07-19 12:54:37",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Books and Literature;Writing and Writers;Twenty-First Century;vis-design",
+      "column": null,
+      "byline": "By The New York Times Books Staff",
+      "type": "Interactive",
+      "title": "Readers Pick Their 100 Best Books of the 21st Century",
+      "abstract": "The people have spoken. Here are the books they voted for.",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Twenty-First Century",
+        "vis-design"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/18/books/reader-list/reader-list-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/18/books/reader-list/reader-list-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/18/books/reader-list/reader-list-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5154e4da-2038-5bdb-b128-69de7414c80b",
+      "url": "https://www.nytimes.com/2024/07/20/opinion/biden-trump-kamala-harris.html",
+      "id": 100000009582602,
+      "asset_id": 100000009582602,
+      "source": "New York Times",
+      "published_date": "2024-07-20",
+      "updated": "2024-07-21 10:43:21",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Polls and Public Opinion;Biden, Joseph R Jr;Obama, Barack;Pelosi, Nancy;Democratic Party",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "Lord Almighty, Joe, Let It Go!",
+      "abstract": "It’s sad that the president doesn’t see what’s inescapable.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": ["Biden, Joseph R Jr", "Obama, Barack", "Pelosi, Nancy"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Kent Nishimura/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/20/multimedia/20dowdnew-qtwh/20dowdnew-qtwh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/20/multimedia/20dowdnew-qtwh/20dowdnew-qtwh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/20/multimedia/20dowdnew-qtwh/20dowdnew-qtwh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4bb0eed0-40c9-5551-85b1-dd72b66a7e8a",
+      "url": "https://www.nytimes.com/2024/07/24/business/media/rupert-murdoch-succession-fox.html",
+      "id": 100000009588986,
+      "asset_id": 100000009588986,
+      "source": "New York Times",
+      "published_date": "2024-07-24",
+      "updated": "2024-07-24 20:01:33",
+      "section": "Business",
+      "subsection": "Media",
+      "nytdsection": "business",
+      "adx_keywords": "News and News Media;Television;Newspapers;Conservatism (US Politics);Rumors and Misinformation;Suits and Litigation (Civil);Wills and Estates;Deng, Wendi;Barr, William P;Murdoch, Lachlan;Murdoch, Rupert;Trump, Donald J;Murdoch, James R;Murdoch, Elisabeth;Murdoch, Wendi;Murdoch, Kathryn;Dominion Voting Systems Corp;Fox News Channel",
+      "column": null,
+      "byline": "By Jim Rutenberg and Jonathan Mahler",
+      "type": "Article",
+      "title": "The Secret Battle for the Future of the Murdoch Empire",
+      "abstract": "Rupert Murdoch, the patriarch, has moved to change the family’s irrevocable trust to preserve his media businesses as a conservative force. Several of his children are fighting back.",
+      "des_facet": [
+        "News and News Media",
+        "Television",
+        "Newspapers",
+        "Conservatism (US Politics)",
+        "Rumors and Misinformation",
+        "Suits and Litigation (Civil)",
+        "Wills and Estates"
+      ],
+      "org_facet": ["Dominion Voting Systems Corp", "Fox News Channel"],
+      "per_facet": [
+        "Deng, Wendi",
+        "Barr, William P",
+        "Murdoch, Lachlan",
+        "Murdoch, Rupert",
+        "Trump, Donald J",
+        "Murdoch, James R",
+        "Murdoch, Elisabeth",
+        "Murdoch, Wendi",
+        "Murdoch, Kathryn"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Since Rupert Murdoch designed the trust nearly 25 years ago, the family’s political views have diverged sharply.",
+          "copyright": "Leon Neal/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/00project-harmony-mtcp/00project-harmony-mtcp-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/00project-harmony-mtcp/00project-harmony-mtcp-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/00project-harmony-mtcp/00project-harmony-mtcp-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2f520e61-387f-5a35-8a31-dd040b3b0aed",
+      "url": "https://www.nytimes.com/2024/07/21/opinion/jd-vance-kamala-harris.html",
+      "id": 100000009581825,
+      "asset_id": 100000009581825,
+      "source": "New York Times",
+      "published_date": "2024-07-21",
+      "updated": "2024-07-22 11:10:50",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;Conservatism (US Politics);Diversity Initiatives;Affirmative Action;Poverty;Rural Areas;Admissions Standards;Colleges and Universities;Vance, J D;Harris, Kamala D",
+      "column": null,
+      "byline": "By Lydia Polgreen",
+      "type": "Article",
+      "title": "If Kamala Harris Is a D.E.I. Candidate, So Is JD Vance",
+      "abstract": "He benefited from one of the most powerful forms of affirmative action that elite universities practice.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Conservatism (US Politics)",
+        "Diversity Initiatives",
+        "Affirmative Action",
+        "Poverty",
+        "Rural Areas",
+        "Admissions Standards",
+        "Colleges and Universities"
+      ],
+      "org_facet": [],
+      "per_facet": ["Vance, J D", "Harris, Kamala D"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/21polgreen-gbwz/21polgreen-gbwz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/21polgreen-gbwz/21polgreen-gbwz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/21polgreen-gbwz/21polgreen-gbwz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/aeb66e46-fdc3-55c4-b56a-0d62c7880596",
+      "url": "https://www.nytimes.com/2024/07/19/nyregion/nyc-betty-gordon-stoned-crow.html",
+      "id": 100000009528445,
+      "asset_id": 100000009528445,
+      "source": "New York Times",
+      "published_date": "2024-07-19",
+      "updated": "2024-07-20 16:15:12",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Content Type: Personal Profile;Books and Literature;Children and Childhood;Actors and Actresses;Bars and Nightclubs;Celebrities;Culture (Arts);Friendship;Betty Gordon;Greenwich Village (Manhattan, NY)",
+      "column": null,
+      "byline": "By David Waldstein and Sarah Blesener",
+      "type": "Article",
+      "title": "She Danced Naked at Woodstock. She Dated Serpico. At 93, She’s Not Done.",
+      "abstract": "Betty Gordon came to New York to become an actress (and have a good time). But her greatest talent may have been helping others.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Books and Literature",
+        "Children and Childhood",
+        "Actors and Actresses",
+        "Bars and Nightclubs",
+        "Celebrities",
+        "Culture (Arts)",
+        "Friendship"
+      ],
+      "org_facet": [],
+      "per_facet": ["Betty Gordon"],
+      "geo_facet": ["Greenwich Village (Manhattan, NY)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Betty Gordon in her early 30s in a photograph taken at the home of the painter Robert Andrew Parker by her husband at the time, Hal McKusick. ",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/15/multimedia/00ny-betty-kindness-newtop-01-hblz/00ny-betty-kindness-newtop-01-hblz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/15/multimedia/00ny-betty-kindness-newtop-01-hblz/00ny-betty-kindness-newtop-01-hblz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/15/multimedia/00ny-betty-kindness-newtop-01-hblz/00ny-betty-kindness-newtop-01-hblz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7df8c856-ba84-5404-a12c-051e038888dc",
+      "url": "https://www.nytimes.com/2024/07/19/technology/microsoft-crowdstrike-outage-what-happened.html",
+      "id": 100000009581363,
+      "asset_id": 100000009581363,
+      "source": "New York Times",
+      "published_date": "2024-07-19",
+      "updated": "2024-07-19 17:27:17",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Computer Network Outages;Computers and the Internet;Airlines and Airplanes;Computer Security;Cloud Computing;Airports;CrowdStrike Inc;London Stock Exchange",
+      "column": null,
+      "byline": "By Eshe Nelson and Danielle Kaye",
+      "type": "Article",
+      "title": "What We Know About the Global Microsoft Outage",
+      "abstract": "Airlines to banks to retailers were affected in many countries. Businesses are struggling to recover.",
+      "des_facet": [
+        "Computer Network Outages",
+        "Computers and the Internet",
+        "Airlines and Airplanes",
+        "Computer Security",
+        "Cloud Computing",
+        "Airports"
+      ],
+      "org_facet": ["CrowdStrike Inc", "London Stock Exchange"],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/76a1b0da-56da-52ca-8026-142a7e38fdd2",
+      "url": "https://www.nytimes.com/2024/07/21/us/politics/harris-democrats-campaign-nominee-biden.html",
+      "id": 100000009584471,
+      "asset_id": 100000009584471,
+      "source": "New York Times",
+      "published_date": "2024-07-21",
+      "updated": "2024-07-23 07:44:28",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Democratic National Convention;Endorsements;Harris, Kamala D;Biden, Joseph R Jr;Trump, Donald J;Democratic Party;Democratic National Committee",
+      "column": null,
+      "byline": "By Lisa Lerer, Shane Goldmacher, Katie Glueck and Reid J. Epstein",
+      "type": "Article",
+      "title": "Kamala Harris Rapidly Picks Up Democratic Support as 2024 Race Is Reborn",
+      "abstract": "Endorsements cascaded in as the vice president took swift control of the Biden campaign in a transformed contest, though some key Democrats, including Barack Obama, did not immediately back her.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Democratic National Convention",
+        "Endorsements"
+      ],
+      "org_facet": ["Democratic Party", "Democratic National Committee"],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Vice President Kamala Harris will now control President Biden’s campaign, which had $96 million on hand at the end of June, giving her a major financial advantage over any Democratic challengers. None have emerged yet. ",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/21/multimedia/21pol-dems-topart-lbcw/21pol-dems-topart-lbcw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/21/multimedia/21pol-dems-topart-lbcw/21pol-dems-topart-lbcw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/21/multimedia/21pol-dems-topart-lbcw/21pol-dems-topart-lbcw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/7691077b-15f7-5e78-b2c0-ad224fb3d40e",
+      "url": "https://www.nytimes.com/interactive/2024/07/21/us/biden-withdraw-letter.html",
+      "id": 100000009584393,
+      "asset_id": 100000009584393,
+      "source": "New York Times",
+      "published_date": "2024-07-21",
+      "updated": "2024-07-21 15:38:34",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "",
+      "type": "Interactive",
+      "title": "Read Biden’s Letter Withdrawing From the Race",
+      "abstract": "President Biden announced on social media that he was abandoning his re-election bid.",
+      "des_facet": ["Presidential Election of 2024"],
+      "org_facet": [],
+      "per_facet": ["Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/21/doc-9676865e-c9b3-4fe5-a17d-9-promo/doc-9676865e-c9b3-4fe5-a17d-9-promo-thumbStandard-v2.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/21/doc-9676865e-c9b3-4fe5-a17d-9-promo/doc-9676865e-c9b3-4fe5-a17d-9-promo-mediumThreeByTwo210-v2.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/21/doc-9676865e-c9b3-4fe5-a17d-9-promo/doc-9676865e-c9b3-4fe5-a17d-9-promo-mediumThreeByTwo440-v2.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dd8a3ad9-66b4-5b0f-a7df-c52d7529c607",
+      "url": "https://www.nytimes.com/2024/07/23/us/politics/trump-harris-attack-lines.html",
+      "id": 100000009585748,
+      "asset_id": 100000009585748,
+      "source": "New York Times",
+      "published_date": "2024-07-23",
+      "updated": "2024-07-24 09:55:41",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Race and Ethnicity;Black People;Women and Girls;Discrimination;United States Politics and Government;Polls and Public Opinion;Trump, Donald J;Harris, Kamala D",
+      "column": null,
+      "byline": "By Maggie Haberman and Jonathan Swan",
+      "type": "Article",
+      "title": "Trump’s New Rival May Bring Out His Harshest Instincts",
+      "abstract": "After years planning to face President Biden, Donald J. Trump and his team will be campaigning against Kamala Harris. He has attacked female rivals and critics in brutal and personal terms.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Race and Ethnicity",
+        "Black People",
+        "Women and Girls",
+        "Discrimination",
+        "United States Politics and Government",
+        "Polls and Public Opinion"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J", "Harris, Kamala D"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Former President Donald J. Trump has a long history of attacking female rivals and critics in personal terms.",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/23pol-trump-harris-top-mqkb/23pol-trump-harris-top-mqkb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/23pol-trump-harris-top-mqkb/23pol-trump-harris-top-mqkb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/23pol-trump-harris-top-mqkb/23pol-trump-harris-top-mqkb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/827ba773-2792-5414-9b5e-022744900e0e",
+      "url": "https://www.nytimes.com/2024/07/24/opinion/trump-lies-charts-data.html",
+      "id": 100000009552082,
+      "asset_id": 100000009552082,
+      "source": "New York Times",
+      "published_date": "2024-07-24",
+      "updated": "2024-07-24 07:52:39",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;Rumors and Misinformation;Foreign Aid;United States Politics and Government;Labor and Jobs;Crime and Criminals;Prices (Fares, Fees and Rates);Customs (Tariff);United States Economy;Foreign Workers;Trump, Donald J;Biden, Joseph R Jr;Ukraine",
+      "column": null,
+      "byline": "By Steven Rattner and Aileen Clarke",
+      "type": "Article",
+      "title": "Don’t Take Trump’s Word for It. Check the Data.",
+      "abstract": "A demonstration of the many ways the ex-president bends the truth, in charts.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Rumors and Misinformation",
+        "Foreign Aid",
+        "United States Politics and Government",
+        "Labor and Jobs",
+        "Crime and Criminals",
+        "Prices (Fares, Fees and Rates)",
+        "Customs (Tariff)",
+        "United States Economy",
+        "Foreign Workers"
+      ],
+      "org_facet": [],
+      "per_facet": ["Trump, Donald J", "Biden, Joseph R Jr"],
+      "geo_facet": ["Ukraine"],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/aa082374-3360-5d60-bd53-81533ae874d4",
+      "url": "https://www.nytimes.com/2024/07/17/us/politics/dnc-biden-nomination.html",
+      "id": 100000009576630,
+      "asset_id": 100000009576630,
+      "source": "New York Times",
+      "published_date": "2024-07-17",
+      "updated": "2024-07-22 06:17:24",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;Polls and Public Opinion;United States Politics and Government;Biden, Joseph R Jr;Jeffries, Hakeem;Schumer, Charles E;Democratic Party;House of Representatives;Senate",
+      "column": null,
+      "byline": "By Carl Hulse, Michael S. Schmidt, Reid J. Epstein, Peter Baker and Luke Broadwater",
+      "type": "Article",
+      "title": "Biden Called ‘More Receptive’ to Hearing Pleas to Step Aside",
+      "abstract": "The president has given no indication that he is changing his mind about staying in the race but is said to be more willing to listen to the case for bowing out.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Polls and Public Opinion",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Democratic Party", "House of Representatives", "Senate"],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Jeffries, Hakeem",
+        "Schumer, Charles E"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden continues to face discontent from within his party over his decision to proceed with his campaign.",
+          "copyright": "Eric Lee/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/17/multimedia/17pol-dnc-biden-1-hgbm/17pol-dnc-biden-1-hgbm-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/17/multimedia/17pol-dnc-biden-1-hgbm/17pol-dnc-biden-1-hgbm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/17/multimedia/17pol-dnc-biden-1-hgbm/17pol-dnc-biden-1-hgbm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b32cc636-f945-5fb9-8599-c7ce5fa51e8e",
+      "url": "https://www.nytimes.com/2024/07/19/us/gunman-thomas-crooks-trump-shooting.html",
+      "id": 100000009580028,
+      "asset_id": 100000009580028,
+      "source": "New York Times",
+      "published_date": "2024-07-19",
+      "updated": "2024-07-21 14:51:09",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Content Type: Personal Profile;Assassinations and Attempted Assassinations;Presidential Election of 2024;United States Politics and Government;Crooks, Thomas Matthew (2003-24);Trump, Donald J;Pennsylvania;Butler (Pa)",
+      "column": null,
+      "byline": "By Emily Cochrane, Steve Eder, William K. Rashbaum, Amy Julia Harris, Jack Healy and Glenn Thrush",
+      "type": "Article",
+      "title": "From Honor Student to the Gunman Who Tried to Kill Donald Trump",
+      "abstract": "Thomas Crooks was a brainy and quiet young man who built computers and won honors at school, impressing his teachers. Then he became a would-be assassin.",
+      "des_facet": [
+        "Content Type: Personal Profile",
+        "Assassinations and Attempted Assassinations",
+        "Presidential Election of 2024",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": ["Crooks, Thomas Matthew (2003-24)", "Trump, Donald J"],
+      "geo_facet": ["Pennsylvania", "Butler (Pa)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Butler Farm Show grounds in Pennsylvania.",
+          "copyright": "Kristian Thacker for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/19/multimedia/19nat-gunman-01-kvhm/19nat-gunman-01-kvhm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/19/multimedia/19nat-gunman-01-kvhm/19nat-gunman-01-kvhm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/19/multimedia/19nat-gunman-01-kvhm/19nat-gunman-01-kvhm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2b691c79-5c75-5564-bed8-6f7199c7c322",
+      "url": "https://www.nytimes.com/2024/07/22/us/politics/kamala-harris-trump-2024-election.html",
+      "id": 100000009585755,
+      "asset_id": 100000009585755,
+      "source": "New York Times",
+      "published_date": "2024-07-22",
+      "updated": "2024-07-23 23:07:44",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Vice Presidents and Vice Presidency (US);Endorsements;Campaign Finance;Harris, Kamala D;Biden, Joseph R Jr;Holder, Eric H Jr;Democratic Party",
+      "column": null,
+      "byline": "By Shane Goldmacher and Reid J. Epstein",
+      "type": "Article",
+      "title": "Harris Clinches Majority of Delegates as She Closes In on Nomination",
+      "abstract": "On her first full day in the race, Kamala Harris drew endorsements from her final possible rivals, hauled in record sums of cash and attacked Donald Trump.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Vice Presidents and Vice Presidency (US)",
+        "Endorsements",
+        "Campaign Finance"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": [
+        "Harris, Kamala D",
+        "Biden, Joseph R Jr",
+        "Holder, Eric H Jr"
+      ],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/14256d1f-5c80-55fc-9798-178f99b6b520",
+      "url": "https://www.nytimes.com/2024/07/21/opinion/editorials/joe-biden-drops-out-courage.html",
+      "id": 100000009557210,
+      "asset_id": 100000009557210,
+      "source": "New York Times",
+      "published_date": "2024-07-21",
+      "updated": "2024-07-23 07:44:58",
+      "section": "Opinion",
+      "subsection": "Editorials",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;Biden, Joseph R Jr;Trump, Donald J;Harris, Kamala D",
+      "column": null,
+      "byline": "By The Editorial Board",
+      "type": "Article",
+      "title": "Biden Made a Courageous Choice. Democrats Must Seize the Opportunity.",
+      "abstract": "He did what Trump would never do: place the national interest above his own pride and ambition.",
+      "des_facet": ["Presidential Election of 2024"],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J",
+        "Harris, Kamala D"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/00biden-tqlm/00biden-tqlm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/00biden-tqlm/00biden-tqlm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/00biden-tqlm/00biden-tqlm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6b81166c-1678-51f4-aef8-5f4e34aab8e8",
+      "url": "https://www.nytimes.com/2024/07/22/world/canada/atlantic-ocean-sailing-deaths.html",
+      "id": 100000009585208,
+      "asset_id": 100000009585208,
+      "source": "New York Times",
+      "published_date": "2024-07-22",
+      "updated": "2024-07-24 13:35:33",
+      "section": "World",
+      "subsection": "Canada",
+      "nytdsection": "world",
+      "adx_keywords": "Sailboats and Sailing;National Parks, Monuments and Seashores;Missing Persons;Deaths (Fatalities);Maritime Accidents and Safety;Royal Canadian Mounted Police;Nova Scotia (Canada);Sable Island (Nova Scotia)",
+      "column": null,
+      "byline": "By Derrick Bryson Taylor",
+      "type": "Article",
+      "title": "Couple Who Attempted to Cross Atlantic Found Dead in Lifeboat",
+      "abstract": "James Brett Clibbery and his wife, Sarah Justine Packwood, had left Nova Scotia on June 11, bound for the Azores. The authorities recovered remains believed to be theirs earlier this month.",
+      "des_facet": [
+        "Sailboats and Sailing",
+        "National Parks, Monuments and Seashores",
+        "Missing Persons",
+        "Deaths (Fatalities)",
+        "Maritime Accidents and Safety"
+      ],
+      "org_facet": ["Royal Canadian Mounted Police"],
+      "per_facet": [],
+      "geo_facet": ["Nova Scotia (Canada)", "Sable Island (Nova Scotia)"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "James Brett Clibbery and his wife, Sarah Justine Packwood.",
+          "copyright": "via Facebook",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/world/22xp-sailingcouple1/22xp-sailingcouple1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/world/22xp-sailingcouple1/22xp-sailingcouple1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/world/22xp-sailingcouple1/22xp-sailingcouple1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/12fef6d0-5640-5862-98f0-4a109c915832",
+      "url": "https://www.nytimes.com/interactive/2024/07/22/opinion/best-worst-candidates-to-replace-biden.html",
+      "id": 100000009584792,
+      "asset_id": 100000009584792,
+      "source": "New York Times",
+      "published_date": "2024-07-22",
+      "updated": "2024-07-23 13:12:20",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;United States Politics and Government;Vice Presidents and Vice Presidency (US);Beshear, Andrew G (1977- );Biden, Joseph R Jr;Harris, Kamala D;Healy, Patrick;Moore, Wes (1978- );Murphy, Christopher Scott;Newsom, Gavin;Pritzker, J B;Shapiro, Josh (1973- );Warnock, Raphael G;Whitmer, Gretchen;Democratic Party",
+      "column": null,
+      "byline": "By New York Times Opinion",
+      "type": "Interactive",
+      "title": "How These 10 Democrats Would Fare Against Trump, Rated by Our Columnists and Writers",
+      "abstract": "Many party leaders are coalescing behind Kamala Harris, but some veteran Democrats — and many voters — are still grappling with who would fare best against Trump.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Vice Presidents and Vice Presidency (US)"
+      ],
+      "org_facet": ["Democratic Party"],
+      "per_facet": [
+        "Beshear, Andrew G (1977- )",
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Healy, Patrick",
+        "Moore, Wes (1978- )",
+        "Murphy, Christopher Scott",
+        "Newsom, Gavin",
+        "Pritzker, J B",
+        "Shapiro, Josh (1973- )",
+        "Warnock, Raphael G",
+        "Whitmer, Gretchen"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/2024-07-03-dems-for-prez-index/2024-07-03-dems-for-prez-index-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/2024-07-03-dems-for-prez-index/2024-07-03-dems-for-prez-index-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/22/multimedia/2024-07-03-dems-for-prez-index/2024-07-03-dems-for-prez-index-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/7b888420-52fe-5292-bcf1-e9ba5fe798a2",
+      "url": "https://www.nytimes.com/2024/07/21/opinion/joe-biden-drops-out-2024-history.html",
+      "id": 100000009567293,
+      "asset_id": 100000009567293,
+      "source": "New York Times",
+      "published_date": "2024-07-21",
+      "updated": "2024-07-22 23:13:50",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2024;Presidential Election of 1968;Primaries and Caucuses;Democratic National Convention;Biden, Joseph R Jr;Harris, Kamala D;Johnson, Lyndon Baines;Trump, Donald J;Democratic Party;Republican Party;United States",
+      "column": null,
+      "byline": "By Frank Bruni",
+      "type": "Article",
+      "title": "What Joe Biden Just Did Is Utterly Extraordinary",
+      "abstract": "It’s hard to grasp the historical rarity, emotional agony and fundamental humility of what the president just did.",
+      "des_facet": [
+        "Presidential Election of 2024",
+        "Presidential Election of 1968",
+        "Primaries and Caucuses",
+        "Democratic National Convention"
+      ],
+      "org_facet": ["Democratic Party", "Republican Party"],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Harris, Kamala D",
+        "Johnson, Lyndon Baines",
+        "Trump, Donald J"
+      ],
+      "geo_facet": ["United States"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/opinion/23bruni1/23bruni1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/opinion/23bruni1/23bruni1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/opinion/23bruni1/23bruni1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/34b73e25-a60a-55d6-aba1-d758850cd33e",
+      "url": "https://www.nytimes.com/2024/07/23/sports/charlotte-dujardin-equestrian-olympics-video.html",
+      "id": 100000009587665,
+      "asset_id": 100000009587665,
+      "source": "New York Times",
+      "published_date": "2024-07-23",
+      "updated": "2024-07-24 16:04:21",
+      "section": "Sports",
+      "subsection": "",
+      "nytdsection": "sports",
+      "adx_keywords": "Olympic Games (2024);Dressage (Equestrian Sport);Horsemanship and Equestrian Events;Horses;Great Britain",
+      "column": null,
+      "byline": "By Victor Mather and Alex Marshall",
+      "type": "Article",
+      "title": "Caught Repeatedly Whipping a Horse, Top British Rider Is Out of the Olympics",
+      "abstract": "“There is no excuse,” Charlotte Dujardin, a three-time gold medalist, said of her actions captured on video. “I am deeply ashamed and should have set a better example in that moment.”",
+      "des_facet": [
+        "Olympic Games (2024)",
+        "Dressage (Equestrian Sport)",
+        "Horsemanship and Equestrian Events",
+        "Horses"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": ["Great Britain"],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charlotte Dujardin of Britain and her horse Gio in Tokyo in 2021. Dujardin said on social media that a video of her whipping a horse showed an “error of judgment during a coaching session.”",
+          "copyright": "David Goldman/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/23xp-equestrian-qhcj/23xp-equestrian-qhcj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/23xp-equestrian-qhcj/23xp-equestrian-qhcj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/23/multimedia/23xp-equestrian-qhcj/23xp-equestrian-qhcj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/579cf1ab-3b91-5b75-817d-e4e3e6257c7a",
+      "url": "https://www.nytimes.com/2024/07/19/us/undecideds-voters-trump-vance-rnc.html",
+      "id": 100000009579869,
+      "asset_id": 100000009579869,
+      "source": "New York Times",
+      "published_date": "2024-07-19",
+      "updated": "2024-07-20 13:41:11",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Republican National Convention;Presidential Election of 2024;United States Politics and Government;Polls and Public Opinion;Speeches and Statements;Trump, Donald J;Biden, Joseph R Jr;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Julie Bosman, Jack Healy, Eduardo Medina, Campbell Robertson and J. David Goodman",
+      "type": "Article",
+      "title": "What Undecided Voters Thought of Trump’s Speech: Mostly, Not Much",
+      "abstract": "The former president did not win them over — not that they like the alternative.",
+      "des_facet": [
+        "Republican National Convention",
+        "Presidential Election of 2024",
+        "United States Politics and Government",
+        "Polls and Public Opinion",
+        "Speeches and Statements"
+      ],
+      "org_facet": ["Democratic Party", "Republican Party"],
+      "per_facet": ["Trump, Donald J", "Biden, Joseph R Jr"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Jamie Kelter Davis for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/08/18/multimedia/18nat-voters-PROMO-klzw/18nat-voters-PROMO-klzw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/18/multimedia/18nat-voters-PROMO-klzw/18nat-voters-PROMO-klzw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/08/18/multimedia/18nat-voters-PROMO-klzw/18nat-voters-PROMO-klzw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6b96aad1-7800-5787-a282-c3c353c6181c",
+      "url": "https://www.nytimes.com/2024/07/18/opinion/republican-convention-jd-vance.html",
+      "id": 100000009566366,
+      "asset_id": 100000009566366,
+      "source": "New York Times",
+      "published_date": "2024-07-18",
+      "updated": "2024-07-20 16:41:11",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Republican National Convention;Presidential Election of 2024;United States Politics and Government;Trump, Donald J;Vance, J D;Republican Party",
+      "column": null,
+      "byline": "By New York Times Opinion",
+      "type": "Article",
+      "title": "‘J.D. Vance’s Speech Was Masterly’: Best and Worst Moments From Night 3",
+      "abstract": "Times Opinion writers assess Night 3 of the convention, which included speeches from Peter Navarro, Kimberly Guilfoyle and J.D. Vance.",
+      "des_facet": [
+        "Republican National Convention",
+        "Presidential Election of 2024",
+        "United States Politics and Government"
+      ],
+      "org_facet": ["Republican Party"],
+      "per_facet": ["Trump, Donald J", "Vance, J D"],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Kimberly Guilfoyle and J.D. Vance",
+          "copyright": "Illustration by The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2024/07/18/opinion/18rnc-scorecard-image/18rnc-scorecard-image-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/18/opinion/18rnc-scorecard-image/18rnc-scorecard-image-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2024/07/18/opinion/18rnc-scorecard-image/18rnc-scorecard-image-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
