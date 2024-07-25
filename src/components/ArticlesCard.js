@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import "./styles.css";
 import NoImage from "../constants/images/NoImage.jpg";
 import ToggleContext from "../utils/ToggleContext";
+import { ALT_TEXT } from "../utils/constants";
 
 const ArticlesCard = ({ article = {} }) => {
   const { byline = "", title = "", id = 0, url = null, media = [] } = article;
@@ -25,9 +26,9 @@ const ArticlesCard = ({ article = {} }) => {
       <div className="card">
         <figure>
           {image.url ? (
-            <img src={image.url} alt="No-image" />
+            <img src={image.url} alt={ALT_TEXT} />
           ) : (
-            <img src={NoImage} style={{ height: "165px" }} alt="No-Image" />
+            <img src={NoImage} style={{ height: "165px" }} alt={ALT_TEXT} />
           )}
 
           <figcaption className="figcaption">{byline}</figcaption>

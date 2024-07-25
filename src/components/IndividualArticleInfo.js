@@ -4,8 +4,9 @@ import { useParams } from "react-router-dom";
 import useArticles from "../hooks/useArticles";
 import Shimmer from "./Shimmer";
 import "./styles.css";
-import Error from "./Error";
 import NoImage from "../constants/images/NoImage.jpg";
+import ErrorMessage from "./ErrorMessage";
+import { ALT_TEXT } from "../utils/constants";
 
 const IndividualArticleInfo = () => {
   const { resId } = useParams();
@@ -20,15 +21,15 @@ const IndividualArticleInfo = () => {
   const img = media[0]?.["media-metadata"]?.[2];
 
   if (loading) return <Shimmer />;
-  if (error) return <Error />;
+  if (error) return <ErrorMessage />;
   return (
     <main className="center-align">
       <h1>{selectedArticle.title}</h1>
       <figure>
-        {Boolean(img) ? (
-          <img src={img["url"]} alt="NoImage" />
+        {img ? (
+          <img src={img["url"]} alt={ALT_TEXT} className="individual-img" />
         ) : (
-          <img src={NoImage} alt="NoImage" />
+          <img src={NoImage} alt={ALT_TEXT} className="individual-img" />
         )}
         <figcaption className="figcaption">{source}</figcaption>
       </figure>

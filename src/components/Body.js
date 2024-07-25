@@ -1,16 +1,17 @@
 import React from "react";
+
 import useArticles from "../hooks/useArticles";
 import Shimmer from "./Shimmer";
 import ArticlesCard from "./ArticlesCard";
 import ToggleButton from "./ToggleButton";
 import { ToggleProvider } from "../utils/ToggleContext";
-import Error from "./Error";
+import ErrorMessage from "./ErrorMessage";
 
 const Body = () => {
   const { loading, articles, error } = useArticles();
 
   if (loading) return <Shimmer />;
-  if (error) return <Error />;
+  if (error) return <ErrorMessage />;
   return (
     <ToggleProvider>
       <div className="center-align,displayFlex">

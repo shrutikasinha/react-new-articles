@@ -1,12 +1,10 @@
 .container {
+  @media (min-width: 768px) {
     display: flex;
     align-items: center;
     justify-content: center;
+  };
     border-bottom: 3px double black;
-    @media only screen and (max-width: 599px) {
-      /* Styles for phones */
-      display: grid;
-    }
   }
   
   .icon {
@@ -35,6 +33,10 @@
   flex-grow: 1;
   text-align: center;
   margin-left: -8em;
+  @media only screen and (max-width: 599px) {
+    /* Styles for phones */
+    margin-left: 0px;
+  }
 }
 
 .two-line-span {
@@ -133,4 +135,11 @@
   0% { opacity: 0.1; }
   50% { opacity: 1; }
   100% { opacity: 0.1; }
+}
+
+.individual-img {
+  @media only screen and (max-width: 599px) {
+    /* Styles for phones */
+    width: -webkit-fill-available;
+  }
 }
