@@ -28,6 +28,23 @@ This app involves fetch API for fetching live data from NewYork times, context A
 5.) In order to validate tests, one needs to run **npm run test** and all the details related to no. of tests and suites will be shown. 
 
 
+UI Screenshots
+
+Default Page - Note(there is also a sticky button ***Off*** and it toggle to ***On*** on click, it handles the routing in such a way that if we click on off state it turns to on state and redirect each card route to their official site and show individual card details. And in off state it routes to custom made components showing details of that individual selected card )
+![image](https://github.com/user-attachments/assets/84f99158-ec84-4e15-8870-b0ad35099040)
+
+
+
+On Clicking any card, it uses route to show extra details
+![image](https://github.com/user-attachments/assets/c82826f9-c0af-42a7-b3ac-2f902395e8e4)
+
+
+
+
+
+
+
+
 
 
 
