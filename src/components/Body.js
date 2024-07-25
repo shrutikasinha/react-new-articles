@@ -9,8 +9,8 @@ import Error from "./Error";
 const Body = () => {
   const { loading, articles, error } = useArticles();
 
-  if (loading) return <Shimmer />
-  if (error) return <Error />
+  if (loading) return <Shimmer />;
+  if (error) return <Error />;
   return (
     <ToggleProvider>
       <div className="center-align,displayFlex">

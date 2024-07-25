@@ -9,8 +9,8 @@ import { ToggleProvider } from "./utils/ToggleContext";
 export const router = createBrowserRouter([
   {
     path: "/",
-        element: <App />,
-        children: [
+    element: <App />,
+    children: [
       {
         path: "/",
         element: <Body />,

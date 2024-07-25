@@ -9,8 +9,8 @@ const useArticles = () => {
   useEffect(() => {
     const fetchArticles = async () => {
       try {
-          const data = await getArticles();
-          if (data.status !== 'OK') {
+        const data = await getArticles();
+        if (data.status !== "OK") {
           throw new Error("Network response was not ok");
         }
         setArticles(data.results);
